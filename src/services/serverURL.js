@@ -1,0 +1,1 @@
+export const serverURL = 'https://product-management-backend-23i3.onrender.com';
